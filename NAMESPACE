@@ -1,0 +1,10 @@
+###imports
+import(stats,zipfR)
+export(bmixp)
+export(gmixp)
+export(wmixp)
+export(nmixp)
+export(print.bmixp)
+export(print.gmixp)
+export(print.wmixp)
+export(print.nmixp)
